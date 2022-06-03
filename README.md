@@ -39,6 +39,13 @@
 <img src= "https://img.shields.io/badge/github Actions-2088FF?style=for-the-badge&logo=github&logoColor=white">
 <img src= "https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
  <img src= "https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">
+    
+<h3 align="center"> 📕 Certificate 📕</h3>
+
+|Certificate|Organization|
+|:---:|:---:|
+|SQLD(SQL 개발자)|한국데이터산업진흥원|
+|빅데이터분석기사|한국데이터산업진흥원|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chIorophyII&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chIorophyII&layout=compact&theme=onedark)
