@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
   <p>
-<div align=center>
+<!-- <div align=center> -->
   
 🛠 Tech Stack 🛠</h> 
 <p></p>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/nginx-0096394?style=for-the-badge&logo=nginx&logoColor=white">
   <p>
-<div align=center>
+<!-- <div align=center> -->
   
 🛠 Tools 🛠
   <p></p>
@@ -47,7 +47,7 @@
 |SQLD(SQL 개발자)|한국데이터산업진흥원|
 |빅데이터분석기사|한국데이터산업진흥원|
   
-  </div>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chIorophyII&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chIorophyII&layout=compact&theme=onedark)
  
