@@ -47,8 +47,7 @@
 |SQLD(SQL 개발자)|한국데이터산업진흥원|
 |빅데이터분석기사|한국데이터산업진흥원|
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chIorophyII&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chIorophyII&layout=compact&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chIorophyII&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chIorophyII&layout=compact&theme=onedark)
  
     
 <!--
